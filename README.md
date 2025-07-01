@@ -4,6 +4,10 @@ A minimalist, professional real-time chatroom using MongoDB, Express, React, Nod
 
 ---
 
+![alt text](image.png)
+
+---
+
 ## 🚀 Features
 
 - **Real-time chat** with multiple users
