@@ -1,6 +1,6 @@
 import React, { useState, useRef, useEffect } from 'react';
 
-const WS_URL = 'ws://localhost:5000';
+   const WS_URL = 'wss://chat-application-wm00.onrender.com';
 
 function App() {
   const [username, setUsername] = useState('');
